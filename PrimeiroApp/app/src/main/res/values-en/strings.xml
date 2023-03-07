@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="welcomeToast">Welcome to my app!</string>
+    <string name="welcomeButton">Enter safely</string>
+    <string name="welcomeText">I´m a Barbie Girl</string>
+</resources>

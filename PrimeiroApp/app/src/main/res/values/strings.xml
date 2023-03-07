@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="welcomeText">I´m a Barbie girl</string>
+    <string name="welcomeButton">Entre com segurança</string>
+    ]<string name="welcomeToast">Bem-Vindo ao meu App</string>
+
+</resources>
